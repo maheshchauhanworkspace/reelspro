@@ -1,0 +1,5 @@
+{
+    "github.gitProtocol": "https",
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.enableCommitSigning": true
+}
